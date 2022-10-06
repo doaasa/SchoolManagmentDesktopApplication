@@ -1,0 +1,83 @@
+G:\windowsformprojects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\windowsformprojects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\windowsformprojects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\windowsformprojects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+G:\windowsformprojects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+G:\windowsformprojects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\windowsformprojects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\windowsformprojects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\windowsformprojects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\windowsformprojects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+G:\windowsformprojects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Register_Page.resources
+G:\windowsformprojects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HomePage.resources
+G:\windowsformprojects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StudentInfo.resources
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StudentInfo.resources
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HomePageOR.resources
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StudentHomePage.resources
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StaffScorePage.resources
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StaffHomePage.resources
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StaffCoursePage.resources
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StudentScorePage.resources
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StudentCoursePage.resources
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PrintCoursePage.resources
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LogInPageStaff.resources
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginStudent.resources
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StaffForgotPasswordPage.resources
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StudentForgetPasswordPage.resources
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1(1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1(1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StaffForgotPasswordPage.resources
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1(1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StudentForgetPasswordPage.resources
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1(1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LogInPageStaff.resources
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1(1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginStudent.resources
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1(1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PrintCoursePage.resources
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1(1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StaffCoursePage.resources
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1(1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StaffScorePage.resources
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1(1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StaffHomePage.resources
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1(1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HomePageOR.resources
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1(1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1(1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StudentCoursePage.resources
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1(1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StudentHomePage.resources
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1(1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StudentInfo.resources
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1(1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StudentScorePage.resources
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1(1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1(1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1(1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1(1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1(1)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1(1)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1(1)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1(1)\WindowsFormsApp1\bin\Debug\Data.mdf
+C:\Users\BLUE LAP\Desktop\WindowsFormsApp1(1)\WindowsFormsApp1\bin\Debug\Data_log.ldf
+C:\Users\Electronica Care\Downloads\Telegram Desktop\تعديل بعد الاخير\WindowsFormsApp1\bin\Debug\Data.mdf
+C:\Users\Electronica Care\Downloads\Telegram Desktop\تعديل بعد الاخير\WindowsFormsApp1\bin\Debug\Data_log.ldf
+C:\Users\Electronica Care\Downloads\Telegram Desktop\تعديل بعد الاخير\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Electronica Care\Downloads\Telegram Desktop\تعديل بعد الاخير\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Electronica Care\Downloads\Telegram Desktop\تعديل بعد الاخير\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Electronica Care\Downloads\Telegram Desktop\تعديل بعد الاخير\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Electronica Care\Downloads\Telegram Desktop\تعديل بعد الاخير\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StaffForgotPasswordPage.resources
+C:\Users\Electronica Care\Downloads\Telegram Desktop\تعديل بعد الاخير\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StudentForgetPasswordPage.resources
+C:\Users\Electronica Care\Downloads\Telegram Desktop\تعديل بعد الاخير\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LogInPageStaff.resources
+C:\Users\Electronica Care\Downloads\Telegram Desktop\تعديل بعد الاخير\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginStudent.resources
+C:\Users\Electronica Care\Downloads\Telegram Desktop\تعديل بعد الاخير\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PrintCoursePage.resources
+C:\Users\Electronica Care\Downloads\Telegram Desktop\تعديل بعد الاخير\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StaffCoursePage.resources
+C:\Users\Electronica Care\Downloads\Telegram Desktop\تعديل بعد الاخير\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StaffScorePage.resources
+C:\Users\Electronica Care\Downloads\Telegram Desktop\تعديل بعد الاخير\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StaffHomePage.resources
+C:\Users\Electronica Care\Downloads\Telegram Desktop\تعديل بعد الاخير\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HomePageOR.resources
+C:\Users\Electronica Care\Downloads\Telegram Desktop\تعديل بعد الاخير\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Electronica Care\Downloads\Telegram Desktop\تعديل بعد الاخير\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StudentCoursePage.resources
+C:\Users\Electronica Care\Downloads\Telegram Desktop\تعديل بعد الاخير\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StudentHomePage.resources
+C:\Users\Electronica Care\Downloads\Telegram Desktop\تعديل بعد الاخير\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StudentInfo.resources
+C:\Users\Electronica Care\Downloads\Telegram Desktop\تعديل بعد الاخير\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StudentScorePage.resources
+C:\Users\Electronica Care\Downloads\Telegram Desktop\تعديل بعد الاخير\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Electronica Care\Downloads\Telegram Desktop\تعديل بعد الاخير\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Electronica Care\Downloads\Telegram Desktop\تعديل بعد الاخير\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Electronica Care\Downloads\Telegram Desktop\تعديل بعد الاخير\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
